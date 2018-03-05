@@ -42,10 +42,10 @@ body {
 }
 .display-5 {
   font-family: 'PT Sans', sans-serif;
-  font-size: 1.7rem;
+  font-size: 1.4rem;
 }
 .display-5 > .mbr-iconfont {
-  font-size: 2.72rem;
+  font-size: 2.24rem;
 }
 .display-7 {
   font-family: 'PT Sans', sans-serif;
@@ -76,9 +76,9 @@ body {
     line-height: calc( 1.4 * (1rem + (1 - 1) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-5 {
-    font-size: 1.36rem;
-    font-size: calc( 1.245rem + (1.7 - 1.245) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (1.245rem + (1.7 - 1.245) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 1.12rem;
+    font-size: calc( 1.14rem + (1.4 - 1.14) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (1.14rem + (1.4 - 1.14) * ((100vw - 20rem) / (48 - 20))));
   }
 }
 /* Buttons */
@@ -3157,8 +3157,16 @@ body {
   padding-bottom: 135px;
   background-image: url("../../../assets/images/pic9-2000x1045.png");
 }
+.cid-qLpaRp3Q8p {
+  padding-top: 60px;
+  padding-bottom: 0px;
+  background-color: #f9f9f9;
+}
+.cid-qLpaRp3Q8p .mbr-section-subtitle {
+  color: #767676;
+}
 .cid-qL9TIHeGKb {
-  padding-top: 90px;
+  padding-top: 0px;
   padding-bottom: 0px;
   background-color: #f9f9f9;
 }
@@ -3197,6 +3205,26 @@ body {
 .cid-qL9TVGIIzZ .card-wrapper {
   height: 100%;
 }
+.cid-qLp9wDQO9f {
+  padding-top: 0px;
+  padding-bottom: 45px;
+  background-color: #f9f9f9;
+}
+.cid-qLp9wDQO9f h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
+}
+.cid-qLp9wDQO9f p {
+  color: #767676;
+  text-align: left;
+}
+.cid-qLp9wDQO9f .card-box {
+  padding-top: 2rem;
+}
+.cid-qLp9wDQO9f .card-wrapper {
+  height: 100%;
+}
 .cid-qL73usclkU {
   padding-top: 90px;
   padding-bottom: 90px;
@@ -3207,6 +3235,7 @@ body {
 }
 .cid-qL73usclkU .mbr-section-subtitle {
   color: #767676;
+  text-align: left;
 }
 .cid-qL73usclkU a:not([href]):not([tabindex]) {
   color: #fff;
@@ -3223,6 +3252,9 @@ body {
 .cid-qL73usclkU .input-group-btn {
   display: block;
   text-align: center;
+}
+.cid-qL73usclkU H2 {
+  text-align: right;
 }
 .cid-qKz4xicBDV {
   padding-top: 60px;
