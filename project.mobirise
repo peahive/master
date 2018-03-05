@@ -796,7 +796,7 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn  btn-primary display-4\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">HOME FEATURE</a> ",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn  btn-primary display-4\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\">HOME FEATURE</a> ",
                 "overlayOpacity": "0.1",
                 "overlayColor": "#efefef"
               },
