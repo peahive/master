@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Pea Connext 2",
-    "currentPage": "page3.html",
+    "currentPage": "index.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 148,
     "versionPublish": "4.5.4",
@@ -805,25 +805,6 @@
               {
                 "image": "@PROJECT_PATH@/assets/images/pic-12-1440x1024.png",
                 "active": true,
-                "showButtons": true,
-                "showText": false,
-                "showTitle": true,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "customStyle1": "display-1",
-                "customStyle2": "display-5",
-                "customStyle3": "display-4",
-                "title": "HomeConnext works with a wide range <br>of connected devices.",
-                "overlay": false,
-                "contentAlign": "left",
-                "text": "Slide with youtube video background and color overlay. Title and text are aligned to the left.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn  display-4 btn-danger-outline\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\">HOME FEATURE</a> ",
-                "overlayOpacity": "0.1",
-                "overlayColor": "#000000"
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/pic-12-1440x1024.png",
-                "active": false,
                 "showButtons": true,
                 "showText": false,
                 "showTitle": true,
