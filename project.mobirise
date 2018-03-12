@@ -779,7 +779,7 @@
                 "overlay": false,
                 "contentAlign": "right",
                 "text": "",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn  display-4 btn-danger\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\">BE SMART HOME</a> ",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn  display-4 btn-danger\" href=\"page6.html\" data-toolbar=\"-mbrBtnMove\">BE SMART HOME</a> ",
                 "overlayOpacity": "0.1",
                 "overlayColor": "#232323"
               },
@@ -817,7 +817,7 @@
                 "overlay": false,
                 "contentAlign": "left",
                 "text": "Slide with youtube video background and color overlay. Title and text are aligned to the left.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn  display-4 btn-danger-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">See more</a> ",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn  display-4 btn-danger-outline\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\">See more</a> ",
                 "overlayOpacity": "0.1",
                 "overlayColor": "#000000"
               }
