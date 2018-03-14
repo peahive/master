@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Pea Connext 2",
-    "currentPage": "smarthome.html",
+    "currentPage": "index.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 152,
     "versionPublish": "4.5.4",
@@ -3569,7 +3569,7 @@
               "z-index": "auto"
             },
             "H2": {
-              "color": "#82786e"
+              "color": "#cebfaf"
             }
           },
           "_name": "slider1",
